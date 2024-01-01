@@ -17,3 +17,8 @@
 
 <!-- to view the data in collection -->
 # ---db.collectionName.find()
+
+
+<!-- to view  data on base of filer -->
+
+# ---db.collection.find({key:value})
