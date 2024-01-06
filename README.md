@@ -9,3 +9,11 @@
 
 <!-- viewing collection -->
 # --- show collection
+
+<!-- to inserting new document/record  -->
+# ---db.collectionName.insert({ })
+# ---db.collectionName.insertMany({})
+
+
+<!-- to view the data in collection -->
+# ---db.collectionName.find()
